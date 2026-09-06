@@ -1,0 +1,50 @@
+{
+  "name": "Catppuccin Mocha",
+  "author": "omegazen",
+  "themes": [
+    {
+      "name": "Catppuccin Mocha",
+      "appearance": "dark",
+      "style": {
+        "editor.background": "#1E1E2E",
+        "editor.foreground": "#CDD6F4",
+        "editor.gutter.background": "#1e282d",
+        "tab_bar.background": "#1e192d",
+        "tab.active_background": "#252538",
+        "tab.inactive_background": "#1E1E2E",
+        "title_bar.background": "#191e2d",
+        "toolbar.background": "#1E1E2E",
+        "project_panel.background": "#141e2d",
+        "panel.background": "#141e2d",
+        "status_bar.background": "#1E1E2E",
+        "terminal.background": "#1E1E2E",
+
+        "border": "#00000000",
+        "element.border": "#00000000",
+        "panel.border": "#00000000",
+        "title_bar.border": "#00000000",
+        "status_bar.border": "#00000000",
+        "tab_bar.border": "#00000000",
+        "toolbar.border": "#00000000",
+        "pane.border": "#00000000",
+        "pane_group.border": "#00000000",
+        "tab.border": "#00000000",
+        "tab.active_border": "#00000000",
+        "tab.inactive_border": "#00000000",
+        "tab.active_border.bottom": "#00000000",
+        "tab_bar.border.bottom": "#00000000",
+
+        "syntax": {
+          "variable": { "color": "#F38BA8" },
+          "function": { "color": "#A6E3A1" },
+          "string": { "color": "#F9E2AF" },
+          "keyword": { "color": "#F5C2E7" },
+          "number": { "color":  "#F5C2E7" },
+          "type": { "color": "#94E2D5" },
+          "text": { "color": "#BAC2DE" },
+          "comment": { "color": "#A6ADC8", "font_style": "italic" }
+        }
+      }
+    }
+  ]
+}
