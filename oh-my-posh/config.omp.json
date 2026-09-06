@@ -1,0 +1,30 @@
+{
+  "$schema": "https://githubusercontent.com",
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "text",
+          "style": "powerline",
+          "powerline_symbol": "\u25b6",
+          "foreground": "#e3e3e3",
+          "background": "#0d0d0d",
+          "template": " omegazen (ttlt) "
+        },
+        {
+          "type": "path",
+          "style": "powerline",
+          "powerline_symbol": "\u25b6",
+          "foreground": "#0d0d0d",
+          "background": "#e3e3e3",
+          "properties": {
+            "style": "folder"
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3
+}
