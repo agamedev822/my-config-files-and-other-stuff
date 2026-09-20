@@ -1,0 +1,13 @@
+/* Force sharp corners on tabs and general UI items */
+:root {
+  --tab-border-radius: 0px !important;
+  --arrowpanel-border-radius: 0px !important;
+  --toolbarbutton-border-radius: 0px !important;
+  --urlbar-border-radius: 0px !important;
+}
+
+/* Flatten menus and panels */
+panel, menupopup, .panel-arrowcontainer {
+  --panel-border-radius: 0px !important;
+  border-radius: 0px !important;
+}
